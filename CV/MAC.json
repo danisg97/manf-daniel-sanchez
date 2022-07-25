@@ -38,6 +38,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "Hiberus Technology",
+          "image": {
+            "alt": "1625129029807.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/83c076e8-c3e1-4993-bbea-08694823bdf2_1625129029807.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer. SAP Hybris",
+            "startDate": "2019-02-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "SAP Hybris Commerce Cloud development.\nWorking on different projects (B2B & B2C) for multiple customers."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "SAP Hybris",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "DXC Technology",
           "image": {
             "alt": "1623288155863.jpeg",
