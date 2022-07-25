@@ -1,0 +1,99 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel",
+      "surnames": "Sanchez Gracia",
+      "description": "Searching for new challenges. Trying to do things better (Or trying it).\nThings that I want?\nTeamwork\nTDD (just for my mental health)\nPair programming\nLove for documentation",
+      "avatar": {
+        "alt": "profilepic02.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/ff813051-fe8d-4a30-9ff5-048261b3a550_profilepic02.jpeg"
+      },
+      "location": {
+        "notes": "Zaragoza, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/danisg97"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I love motorcycles. I would love to learn how a motorcycle works.",
+        "fact": "Love vintage motorcycles."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SAP Hybris",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
