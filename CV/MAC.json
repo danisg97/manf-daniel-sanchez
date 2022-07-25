@@ -38,6 +38,56 @@
     "jobs": [
       {
         "organization": {
+          "name": "e2y",
+          "image": {
+            "alt": "1580453310094.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/2edcaea4-6d67-437c-b7ef-467066066875_1580453310094.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer. SAP Hybris",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "SAP Hybris Commerce Cloud development.\nWorking on different projects (B2B & B2C) for multiple customers.\nDuring this time I contributed to the development of different connectors such as Worldpay and Checkout. Also, I contributed to different e-commerce projects."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "SAP Hybris",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "DXC Technology",
           "image": {
             "alt": "1623288155863.jpeg",
