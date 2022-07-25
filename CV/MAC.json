@@ -38,6 +38,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "DXC Technology",
+          "image": {
+            "alt": "1623288155863.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/77e861e8-effe-48d2-b5d0-6c3101ed1731_1623288155863.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer. CaixaBank ",
+            "startDate": "2018-05-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Banking apps development with CaixaBank architecture."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Dare Planet Technology",
           "image": {
             "alt": "1644223358841.jpeg",
