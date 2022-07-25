@@ -34,6 +34,44 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Dare Planet Technology",
+          "image": {
+            "alt": "1644223358841.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/43b49027-8f5f-4083-abd5-52e5ee6bb63c_1644223358841.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer Intern",
+            "startDate": "2017-07-01",
+            "finishDate": "2018-05-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
