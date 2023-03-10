@@ -1,20 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Daniel",
       "surnames": "Sanchez Gracia",
+      "title": "",
       "description": "Searching for new challenges. Trying to do things better.\nThings that I want?\nTeamwork, TDD (just for my mental health), Pair programming, Love for documentation",
       "avatar": {
         "alt": "profilepic02.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/ff813051-fe8d-4a30-9ff5-048261b3a550_profilepic02.jpeg"
       },
       "location": {
-        "notes": "Zaragoza, Spain"
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -212,6 +216,11 @@
             "name": "Software Developer Intern",
             "startDate": "2017-07-01",
             "finishDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": ".NET",
@@ -238,10 +247,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -307,7 +318,11 @@
           "name": "Cobol",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
