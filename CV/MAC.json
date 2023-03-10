@@ -1,14 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Daniel",
       "surnames": "Sanchez Gracia",
-      "title": "",
       "description": "Searching for new challenges. Trying to do things better.\nThings that I want?\nTeamwork, TDD (just for my mental health), Pair programming, Love for documentation",
       "avatar": {
         "alt": "profilepic02.jpeg",
@@ -17,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Aragón",
-        "municipality": "Zaragoza",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Zaragoza"
       }
     },
     "relevantLinks": [
@@ -84,6 +82,58 @@
               },
               {
                 "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zinkee",
+          "image": {
+            "alt": "zinkee-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/e547b13c-c9c5-4fc6-99d6-4247d02c00eb_zinkee-logo.png"
+          },
+          "URL": "https://www.zinkee.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer. Product Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-12-01",
+            "challenges": [
+              {
+                "description": "Working on the SaaS product development. Mostly working on back-end features.\nAlso, introducing engineers to the TDD approach.\nDuring the time that I worked on Zinkee, we created a BDD repository, improved the current base code and we started with lightning talks about different tech topics."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
                 "type": "technology"
               }
             ]
@@ -216,11 +266,6 @@
             "name": "Software Developer Intern",
             "startDate": "2017-07-01",
             "finishDate": "2018-05-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": ".NET",
@@ -247,12 +292,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -322,7 +365,6 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }
