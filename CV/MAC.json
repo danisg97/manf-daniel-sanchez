@@ -348,6 +348,30 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Launching a software project in different countries, following best practices in software development",
+          "description": "One of the most interesting projects I've worked on involved designing, with a team, how we should prepare the code so that implementing certain functionalities in different countries was simple and fast. To achieve this, we used patterns such as the strategy pattern. This allowed us to 'select' the appropriate strategy based on the country we were operating in."
+        },
+        "type": "achievement",
+        "publishingDate": "2023-06-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
