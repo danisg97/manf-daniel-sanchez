@@ -418,6 +418,16 @@
           "description": "Professional degree (2 years). \nDuring this degree, I learned to develop web and mobile apps. Also, I learned to work with DBs, testing apps, and basic Git usage. In general, the basics of software development"
         },
         "finishDate": "2017-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Software engineering",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "none",
+          "description": "Software engineering degree (UNED / online)"
+        }
       }
     ],
     "softSkills": [
