@@ -391,6 +391,16 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "CodelyTV. CQRS architecture & good practices",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "none",
+          "description": "Course completed on the CodelyTV platform about CQRS architecture."
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "CodelyTV. SOLID Principles in Software Development",
         "startDate": "2022-06-01",
         "institution": {
