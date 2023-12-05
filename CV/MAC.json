@@ -1,38 +1,40 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Daniel",
       "surnames": "Sanchez Gracia",
+      "title": "Title",
       "description": "Searching for new challenges. Trying to do things better.\nThings that I want?\nTeamwork, TDD (just for my mental health), Pair programming, Love for documentation",
       "avatar": {
-        "alt": "profilepic02.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/ff813051-fe8d-4a30-9ff5-048261b3a550_profilepic02.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/ff813051-fe8d-4a30-9ff5-048261b3a550_profilepic02.jpeg",
+        "alt": "profilepic02.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
         "country": "España",
         "region": "Aragón",
         "municipality": "Zaragoza"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/danisg97"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love motorcycles. I would love to learn how a motorcycle works.",
         "fact": "Love vintage motorcycles."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/danisg97"
       }
     ]
   },
@@ -42,8 +44,8 @@
         "organization": {
           "name": "e2y commerce",
           "image": {
-            "alt": "1580453310094.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/2edcaea4-6d67-437c-b7ef-467066066875_1580453310094.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/2edcaea4-6d67-437c-b7ef-467066066875_1580453310094.jpeg",
+            "alt": "1580453310094.jpeg"
           }
         },
         "roles": [
@@ -92,8 +94,8 @@
         "organization": {
           "name": "Zinkee",
           "image": {
-            "alt": "zinkee-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/e547b13c-c9c5-4fc6-99d6-4247d02c00eb_zinkee-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/e547b13c-c9c5-4fc6-99d6-4247d02c00eb_zinkee-logo.png",
+            "alt": "zinkee-logo.png"
           },
           "URL": "https://www.zinkee.com/"
         },
@@ -144,8 +146,8 @@
         "organization": {
           "name": "e2y commerce",
           "image": {
-            "alt": "e2y-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/9bdf1e6e-8643-4027-89d8-c4fba5313f20_e2y-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/10/9bdf1e6e-8643-4027-89d8-c4fba5313f20_e2y-logo.png",
+            "alt": "e2y-logo.png"
           }
         },
         "roles": [
@@ -195,8 +197,8 @@
         "organization": {
           "name": "DXC Technology",
           "image": {
-            "alt": "1623288155863.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/099d65d4-4a27-4757-9dee-63c94d4f0611_1623288155863.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/099d65d4-4a27-4757-9dee-63c94d4f0611_1623288155863.jpeg",
+            "alt": "1623288155863.jpeg"
           }
         },
         "roles": [
@@ -234,8 +236,8 @@
         "organization": {
           "name": "Hiberus Technology",
           "image": {
-            "alt": "1625129029807.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/83c076e8-c3e1-4993-bbea-08694823bdf2_1625129029807.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/83c076e8-c3e1-4993-bbea-08694823bdf2_1625129029807.jpeg",
+            "alt": "1625129029807.jpeg"
           }
         },
         "roles": [
@@ -277,8 +279,8 @@
         "organization": {
           "name": "DXC Technology",
           "image": {
-            "alt": "1623288155863.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/77e861e8-effe-48d2-b5d0-6c3101ed1731_1623288155863.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/77e861e8-effe-48d2-b5d0-6c3101ed1731_1623288155863.jpeg",
+            "alt": "1623288155863.jpeg"
           }
         },
         "roles": [
@@ -308,8 +310,8 @@
         "organization": {
           "name": "Dare Planet Technology",
           "image": {
-            "alt": "1644223358841.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/43b49027-8f5f-4083-abd5-52e5ee6bb63c_1644223358841.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/43b49027-8f5f-4083-abd5-52e5ee6bb63c_1644223358841.jpeg",
+            "alt": "1644223358841.jpeg"
           }
         },
         "roles": [
@@ -343,10 +345,14 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -358,13 +364,13 @@
       },
       {
         "skill": {
-          "name": "Spring",
+          "name": "SAP Hybris",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SAP Hybris",
+          "name": "Spring",
           "type": "technology"
         }
       }
@@ -375,10 +381,30 @@
         "degreeAchieved": true,
         "name": "FP Superior Desarrollo de Aplicaciones Multiplataforma",
         "startDate": "2015-01-01",
-        "finishDate": "2017-01-01",
         "institution": {
           "name": " Salesianos \"Ntra. Sra. del Pilar\" Zaragoza",
           "description": "Professional degree (2 years). \nDuring this degree, I learned to develop web and mobile apps. Also, I learned to work with DBs, testing apps, and basic Git usage. In general, the basics of software development"
+        },
+        "finishDate": "2017-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -387,8 +413,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/danielsanchezgracia/"
+          "URL": "https://www.linkedin.com/in/danielsanchezgracia/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/danisg97",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "sanchez.gracia.daniel@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "655461551",
+          "countryCode": "+34"
         }
       ]
     },
@@ -416,6 +455,11 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like to work in a company with an amazing culture. I think it's the key ingredient. Good work environment, good deliveries.\n\nRegarding management, continuous talks with your manager are essential. What it´s going well? What it´s going bad? Just to be an incredible developer.\n\nRegarding development, TDD and pair programming. It's something that, when you try it. It's necessary for you.",
+    "goodPractices": "TDD, Solid"
   }
 }
