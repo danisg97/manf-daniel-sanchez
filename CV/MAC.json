@@ -358,19 +358,31 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SAP Hybris",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -459,6 +471,28 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like to work in a company with an amazing culture. I think it's the key ingredient. Good work environment, good deliveries.\n\nRegarding management, continuous talks with your manager are essential. What it´s going well? What it´s going bad? Just to be an incredible developer.\n\nRegarding development, TDD and pair programming. It's something that, when you try it. It's necessary for you.",
     "goodPractices": "TDD, Solid"
   }
