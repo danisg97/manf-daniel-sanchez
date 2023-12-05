@@ -389,6 +389,16 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "CodelyTV. SOLID Principles in Software Development",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "e2y commerce",
+          "description": "Course completed on the CodelyTV platform about SOLID principles."
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "FP Superior Desarrollo de Aplicaciones Multiplataforma",
